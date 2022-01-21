@@ -1,0 +1,29 @@
+[33mcommit caa3da5485d0dd8a72b1fce99f6661db986237e7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Jose Lemos <eljoselemond@gmail.com>
+Date:   Fri Jan 21 19:43:37 2022 -0300
+
+    Utilizamos el loader de imagen que provee webpack, para cargar las imagenes de los logos de github, intagram y twitter
+
+[33mcommit 3a87e18f94ec7f7a260edcc71a3d6d62cc1aedbc[m
+Author: Jose Lemos <eljoselemond@gmail.com>
+Date:   Fri Jan 21 18:47:36 2022 -0300
+
+    Agregamos los plugins y cargadores para CSS con webpack
+
+[33mcommit 482e6c5512294a7fd7a809f31a310c99d3f961ad[m[33m ([m[1;32morigin/main[m[33m)[m
+Author: Jose Lemos <eljoselemond@gmail.com>
+Date:   Fri Jan 21 01:20:07 2022 -0300
+
+    Utilizamos babel loader para realizar las configuraciones del proyecto para que sea compatible con cualquier navegador
+
+[33mcommit 6cf560dc218de1086105ddf7513a53ad3d73a15b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oscar Barajas <oscar@dragons.mx>
+Date:   Wed Feb 24 00:33:50 2021 -0500
+
+    :art: [ADD] Initial Commit
+
+[33mcommit d787ec3622d7ff9f1d61bf0a515108645c3409f3[m
+Author: Oscar Barajas Tavares <oscar@arepa.dev>
+Date:   Wed Feb 24 00:29:03 2021 -0500
+
+    Initial commit
