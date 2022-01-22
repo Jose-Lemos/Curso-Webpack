@@ -1,4 +1,4 @@
-const API = 'https://randomuser.me/api/';
+const API =process.env.API; //ya definimos esta ruta en las variables de entorno con webpack'https://randomuser.me/api/';
 
 const getData = async (id) => {
   const apiURl = id ? `${API}${id}` : API;
